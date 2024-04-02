@@ -1,6 +1,6 @@
 import React from "react";
 import SquareIcon from "@mui/icons-material/Square";
-import { Box, Container, Typography } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 import { Section } from "../muiThemeConfig/muiThemeConfig";
 import Btn from "../components/button/Btn";
 
