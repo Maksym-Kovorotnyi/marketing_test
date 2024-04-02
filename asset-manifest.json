@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/marketing_test/static/css/main.10ceb831.css",
+    "main.js": "/marketing_test/static/js/main.6d9523d6.js",
+    "static/media/People@1x.png": "/marketing_test/static/media/People@1x.486e973bc66eb7b3dd67.png",
+    "static/media/Card@x2.png": "/marketing_test/static/media/Card@x2.f889d233630ea4a5bb36.png",
+    "static/media/top-left@1x.png": "/marketing_test/static/media/top-left@1x.12e7cf4ff7c2cc3d8c38.png",
+    "static/media/bottom-right@1x.png": "/marketing_test/static/media/bottom-right@1x.933dfe0bb9fea84d4002.png",
+    "static/media/midle-left@1x.png": "/marketing_test/static/media/midle-left@1x.49d084875cfeb6af204f.png",
+    "static/media/top-right@1x.png": "/marketing_test/static/media/top-right@1x.fe2fc94b62a8f63da307.png",
+    "static/media/someWoman@1x.png": "/marketing_test/static/media/someWoman@1x.549af83a6cda8c78e6f7.png",
+    "static/media/midle-right@1x.png": "/marketing_test/static/media/midle-right@1x.5dc486a80eea16169c0f.png",
+    "static/media/smartPhone@1x.png": "/marketing_test/static/media/smartPhone@1x.cd9fae344362fadd8282.png",
+    "static/media/backBooks1@1x.png": "/marketing_test/static/media/backBooks1@1x.db013274482876358bc2.png",
+    "static/media/frontLaptop@1x.png": "/marketing_test/static/media/frontLaptop@1x.6aa64eb38c50ed24619f.png",
+    "static/media/woman@3x.png": "/marketing_test/static/media/woman@3x.e9df33abd9eb3323ded2.png",
+    "static/media/book@1x.png": "/marketing_test/static/media/book@1x.8879008a7e9932aae6e0.png",
+    "static/media/websiteBook@1x.png": "/marketing_test/static/media/websiteBook@1x.01e592e41da3684e35d3.png",
+    "static/media/bottom-left@1x.png": "/marketing_test/static/media/bottom-left@1x.903efce111fdb58a255a.png",
+    "static/media/botom-center@1x.png": "/marketing_test/static/media/botom-center@1x.6026dadd5541bcab27e3.png",
+    "static/media/panRoman@1x.png": "/marketing_test/static/media/panRoman@1x.58fedfcf98c2d8052768.png",
+    "static/media/footerBackImg.png": "/marketing_test/static/media/footerBackImg.707ab9cc16c514f3ad76.png",
+    "static/media/paperBackground@1x.png": "/marketing_test/static/media/paperBackground@1x.c14b9f1a56e80a9377e2.png",
+    "static/media/largeQuote.svg": "/marketing_test/static/media/largeQuote.845a264a7bb88ef6b91e8031a2835ae3.svg",
+    "index.html": "/marketing_test/index.html",
+    "static/media/testimonialsSvg.svg": "/marketing_test/static/media/testimonialsSvg.b7be57401a9044fc5d418a9b1293f90b.svg",
+    "static/media/processSvg.svg": "/marketing_test/static/media/processSvg.e149bd68bcd555efb47ddfbdac0e57e3.svg",
+    "static/media/Star.svg": "/marketing_test/static/media/Star.2465135eefe4ae2eac1185487c0ac1b7.svg",
+    "static/media/fourStar.svg": "/marketing_test/static/media/fourStar.2465135eefe4ae2eac1185487c0ac1b7.svg",
+    "static/media/creativeVector.svg": "/marketing_test/static/media/creativeVector.44a6b53ede9288d8e6082a5b616b6cce.svg",
+    "static/media/aLot.svg": "/marketing_test/static/media/aLot.3ef20843637f6008df7ffc415bf7eff3.svg",
+    "main.10ceb831.css.map": "/marketing_test/static/css/main.10ceb831.css.map",
+    "main.6d9523d6.js.map": "/marketing_test/static/js/main.6d9523d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ceb831.css",
+    "static/js/main.6d9523d6.js"
+  ]
+}
